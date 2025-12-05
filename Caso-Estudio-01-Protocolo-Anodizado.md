@@ -1,6 +1,6 @@
 # Caso de Estudio 01: Generación de Protocolos Técnicos (Anodizado de Aluminio)
 
-## 1. Resumen Ejecutivo
+## 1. Resumen
 Este caso demuestra cómo la **Sincronización Empática Profunda** permite a un LLM generar guías de ingeniería química (DIY) con alta precisión y seguridad, superando las barreras habituales de respuestas genéricas.
 
 ## 2. El Desafío
